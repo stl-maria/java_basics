@@ -1,5 +1,5 @@
 package edu.java.oo.caso.impressora;
 
-public class Impressora {
-
+public interface Impressora {
+	public void imprimir();
 }
