@@ -1,0 +1,10 @@
+packet java.basico
+
+public class Fundamentos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
