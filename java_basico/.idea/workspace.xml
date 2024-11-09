@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="319dc36b-7cfb-41d4-9bf1-4a4f3f43bbc7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Lista/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Lista/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Lista/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Lista/src/java/dataStructure/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Lista/src/java/dataStructure/ConjuntoInvertido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Lista/src/java/dataStructure/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Lista/src/java/dataStructure/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Lista/src/java/dataStructure/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Lista/src/java/dataStructure/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Vetor/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Vetor/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Vetor/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Vetor/bin/br/com/java/ed/implementation/Supermarket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Vetor/bin/br/com/java/ed/implementation/SupermarketArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Vetor/bin/br/com/java/ed/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Vetor/src/br/com/java/ed/implementation/Supermarket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Vetor/src/br/com/java/ed/implementation/SupermarketArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Vetor/src/br/com/java/ed/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/bin/br/com/java/fc/Composta$ResultadoEscolar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/bin/br/com/java/fc/Composta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/bin/br/com/java/fc/Encadeada$NotaProva.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/bin/br/com/java/fc/Encadeada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/bin/br/com/java/fc/Repeticao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/bin/br/com/java/fc/RepeticaoComArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/bin/br/com/java/fc/Simples$CaixaEletronico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/bin/br/com/java/fc/Simples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/bin/br/com/java/fc/Ternaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/desafio/candidatura/ProcessoSeletivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/CepInvalido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/Composta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/Encadeada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/Enquanto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/Excecao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/FacaEnquanto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/FormatadorCepExemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/InterrompeContinua.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/Repeticao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/RepeticaoComArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/Simples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/Ternaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Control Statements/src/br/com/java/fc/teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/Escola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/EstadoBrasileiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/EstruturasCondicionais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/Funcoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/HappyVeggi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/LacosNumericos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/ManipulandoStringEData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/MinhaClasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/TiposOperadores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/TiposVariaveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/Vetores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/sistemasmarttv/SmartTv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/basico/sistemasmarttv/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/Canil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/ONG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/animais/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/animais/Cachorro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/animais/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/animais/Passaro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/aplicativo/ComputadorUsuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/aplicativo/FacebookMessenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/aplicativo/MSNMessenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/aplicativo/ServicoMensagemInstantanea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/aplicativo/TelegramMessenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/caso/EquipamentoMultifuncional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/caso/copiadora/Copiadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/caso/copiadora/MarcaCopiadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/caso/digitalizadora/Digitalizadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/caso/digitalizadora/MarcaDigitalizadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/caso/estabeleciomento/Fabrica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/caso/impressora/Impressora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/caso/impressora/MarcaImpressora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/lojas/Petshop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/veiculos/Autodromo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/veiculos/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/veiculos/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Syntax/src/edu/java/oo/veiculos/Veiculo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2nCNu7MDYP7wDPMLIE9yzjiRcuR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="319dc36b-7cfb-41d4-9bf1-4a4f3f43bbc7" name="Changes" comment="" />
+      <created>1728473319478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728473319478</updated>
+    </task>
+    <servers />
+  </component>
+</project>
